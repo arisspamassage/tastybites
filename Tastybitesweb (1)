@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TastyBite | Fresh & Delicious</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>TastyBite</h1>
+    <nav>
+      <a href="#Home">Home</a>
+      <a href="#menu">Menu</a>
+      <a href="#Contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Fresh, Fast, and Flavorful!</h2>
+  </section>
+
+  <section class="menu-section" id="menu">
+    <h3>Our Menu</h3>
+      <div class="card">
+        <img src="Jollof-and-Chicken.jpg" alt="Jollof-and-Chicken">
+        <h4>Jollof-and-Chicken</h4>
+        <p>Classic Naija jollof with chicken.</p>
+      </div>
+       <div class="card">
+        <img src="starch and banga.png" alt="Jollof-and-Chicken">
+        <h4>Jollof-and-Chicken</h4>
+        <p>Traditional starch and banga soup.</p>
+      </div>
+      <div class="card">
+        <img src="Egusi-soup-and-fufu.webp" alt="Egusi-soup-and-fufu">
+        <h4>Egusi Soup and pounded yam</h4>
+        <p>Loaded with double patties and sauce.</p>
+      </div>
+      <div class="card">
+        <img src="fried rice and turkey.png" alt="fried rice">
+        <h4>Fried rice and turkey</h4>
+        <p>taste delicious </p>
+      </div>
+      <div class="card">
+        <img src="pizza pics.png" alt="Pepperoni Pizza">
+        <h4>Pepperoni Pizza</h4>
+        <p>Spicy pepperoni and melted cheese.</p>
+      </div>
+      <div class="card">
+        <img src="ice cream.jpg" alt="Ice Cream Sundae">
+        <h4>Ice Cream Sundae</h4>
+        <p>Cool down with a sweet treat.</p>
+      </div>
+    </div>
+  </section>
+<section class="contact-section" id="Contact">
+    <h4>Contact us</h4>
+    <h5>08064403393</h5>
+</section>
+  <footer>
+    &copy; 2025 TastyBite. All rights reserved.
+  </footer>
+
+</body>
+</html>
